@@ -9,7 +9,7 @@
 * To activate the environment ```source venv/bin/activate```
 * To deactivate run ```deactivate```
 
-####Installing prerequisites
+#### Installation prerequisites
 * After activating the environment run ```pip install -r requirements.txt```
 
 #### Running the project
