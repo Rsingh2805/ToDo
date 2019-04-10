@@ -1,6 +1,6 @@
-#ToDo project
+# ToDo project
 
-##How to Install
+## How to Install
 #### Cloning the directory
 * Run ``` git clone https://github.com/Rsingh2805/ToDo```
 * Move into the directory ```cd ToDo(Or repository folder)```
